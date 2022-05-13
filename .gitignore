@@ -1,3 +1,7 @@
+# IntelliH metadata files
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
